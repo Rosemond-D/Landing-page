@@ -1,0 +1,196 @@
+.container{
+    display: flex;
+    justify-content: space-around;
+}
+.skilled{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 30px;
+    font-style: bold;
+}
+.start{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 15px;
+    background-color: black;
+    color: white;
+    width: 100px;
+    padding-top: 8px;
+    padding-left: 20px;
+    border-radius: 30px;
+}
+.container2{
+    margin-left: 80px;
+    margin-top: 60px;
+}
+h1{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-synthesis: bold;
+}
+p{
+    color: rgb(77, 66, 66);
+}
+.btn2{
+    width: 110px;
+    height: 30px;
+    padding-left: 20px;
+    padding-top: 8px;
+    border-radius: 30px;
+    background-image: linear-gradient(orange,rgb(219, 59, 86));
+}
+.logo{
+    text-align: right;
+    margin-top: -370px;
+    margin-right: -240px;
+}
+img{
+    width: 50%;
+    height: auto;
+}
+.container4{
+    display: flex;
+    justify-content: space-evenly;
+}
+.container5{
+    margin-top: 20px;
+    display: flex;
+    justify-content: space-evenly;
+}
+.box1{
+    background-image: linear-gradient(orange,rgb(219, 59, 86));
+    padding: 100px;
+    border-radius: 5%;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    color: white;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bold;
+    font-size: 20px;
+}
+.box2{
+    background-color: white;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    padding: 100px;
+    width: 100px;
+    height: 100px;
+    border-radius: 5%;
+}
+.box2 h1{
+    margin-top: -40px;
+    margin-left: -45px;
+}
+.box2 p{
+    margin-left: -45px;
+    width: 220px; 
+}
+.box2 a{
+    margin-left: -45px;
+    color: rgb(219, 59, 86);
+    text-decoration: none;
+}
+.box3{
+    background-color: white;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    padding: 100px;
+    width: 100px;
+    height: 100px;
+    border-radius: 5%;
+}
+.box3 h1{
+    margin-top: -40px;
+    margin-left: -45px;
+}
+.box3 p{
+    margin-left: -45px;
+    width: 220px; 
+}
+.box3 a{
+    margin-left: -45px;
+    color: rgb(219, 59, 86);
+    text-decoration: none;
+}
+.box4{
+    background-color: white;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    padding: 100px;
+    width: 110px;
+    height: 100px;
+    border-radius: 5%;
+    margin-top: 30px;
+}
+.box4 h1{
+    margin-top: -40px;
+    margin-left: -45px;
+}
+.box4 p{
+    margin-left: -45px;
+    width: 220px; 
+}
+.box4 a{
+    margin-left: -45px;
+    color: rgb(219, 59, 86);
+    text-decoration: none;
+}
+.box5{
+    background-color: white;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    padding: 100px;
+    width: 110px;
+    height: 100px;
+    border-radius: 5%;
+    margin-top: 30px;
+}
+.box5 h1{
+    margin-top: -40px;
+    margin-left: -45px;
+}
+.box5 p{
+    margin-left: -45px;
+    width: 220px; 
+}
+.box5 a{
+    margin-left: -45px;
+    color: rgb(219, 59, 86);
+    text-decoration: none;
+}
+.box6{
+    background-color: white;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    padding: 100px;
+    width: 110px;
+    height: 100px;
+    border-radius: 5%;
+    margin-top: 30px;
+}
+.box6 h1{
+    margin-top: -40px;
+    margin-left: -45px;
+}
+.box6 p{
+    margin-left: -45px;
+    width: 220px; 
+}
+.box6 a{
+    margin-left: -45px;
+    color: rgb(219, 59, 86);
+    text-decoration: none;
+}
+.container6{
+    display: flex;
+    background-color: rgb(0, 0, 27);
+    height: 100px;
+    margin-top: 100px;
+    justify-content: space-around;
+}
+.container6 h1{
+    color: white;
+    margin-top: 30px;
+}
+.container6 a{
+    width: 110px;
+    height: 30px;
+    padding-left: 20px;
+    padding-top: 8px;
+    border-radius: 30px;
+    background-image: linear-gradient(rgb(175, 8, 197),rgb(216, 41, 123));
+    margin-top: 35px;
+    text-decoration: none;
+    color: white;
+}
